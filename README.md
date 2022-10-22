@@ -1,4 +1,4 @@
 # Alura-GIT
 Aprendendo GIT
 
-Repositório utilizado para aprender o GIT.
+Repositório para aprender a utilizar o GIT.
